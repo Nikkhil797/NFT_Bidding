@@ -1,9 +1,7 @@
-# PIXEL VAULT NFT Marketplace
+# PIXEL VAULT NFT BiddingPlace
 
 
-Live At : https://nikkhil797.github.io/NFT_Bidding/
-
-NFT Marketplace that enables creation, sale and purchase of digital art as NFT's.
+NFT Biddingplace that enables creation, sale and purchase of digital art as NFT's.
 
 ### Features
 - Create your own Wallet.
